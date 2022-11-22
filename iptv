@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="BMTV",900 BMTV HD
+http://12.12.12.252/playlist
+#EXTINF:-1 group-title="BMTVSPORT",900 BMTV SPORT
+rtmp://12.12.12.253/live
